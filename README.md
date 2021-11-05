@@ -1,4 +1,4 @@
-# XamarinFormsTencentX5Sample 
+# XamarinFormsLSTPopViewSample 
 Sample for showing LSTPopView features on Xamarin.Forms.
 
 Tutorial:
@@ -15,4 +15,4 @@ WeChat Official Account(微信公众号):
 
 Xamarin Library
 
-<img src="https://github.com/jingliancui/XamarinFormsTencentX5Sample/blob/master/Images/wechatqrcode.jpg?raw=true"/>
+<img src="https://github.com/jingliancui/XamarinFormsLSTPopViewSample/blob/main/Images/wechatqrcode.jpg?raw=true"/>
