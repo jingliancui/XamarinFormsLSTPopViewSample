@@ -17,4 +17,4 @@ Xamarin Library
 
 <img src="https://github.com/jingliancui/XamarinFormsLSTPopViewSample/blob/main/Images/wechatqrcode.jpg?raw=true"/>
 
-<img src="https://github.com/jingliancui/XamarinFormsLSTPopViewSample/blob/main/Images/LSTPopView.gif?raw=true"  width="300" height="580"/>
+<img src="https://github.com/jingliancui/XamarinFormsLSTPopViewSample/blob/main/Images/LSTPopView.gif?raw=true"  width="300" height="600"/>
